@@ -2,7 +2,7 @@
 
 Personal monthly budget for Hussein: income, category budgets, day-to-day spending, and the ING savings balance. The starting figures and history come from the BEL Expenses Excel file — income **€7,800**, an October 2026 template budget of **€6,190** across the same 18 categories, and an ING savings balance of **€65,800**. Anything you log after that stays on the phone.
 
-**Live app:** https://husseinabdelmagid-coder.github.io/bel-expenses/
+**Pages URL:** https://husseinabdelmagid-coder.github.io/bel-expenses/
 
 ## Open it on your phone
 
