@@ -20,4 +20,6 @@ Spending you log is saved on the device. After you add entries — and every so 
 
 ## In this repo
 
-Static app, no server. `index.html` holds the interface and the Excel history. `manifest.json`, `sw.js`, and `icons/` make it installable and cache the shell for offline use. GitHub Pages serves the `main` branch.
+Static app, no server. `index.html` holds the interface and the Excel history. `manifest.json`, `sw.js`, and `icons/` make it installable and cache the shell for offline use.
+
+GitHub Pages should publish the root of `main` (no build). In the repository: **Settings → Pages → Deploy from a branch → `main` and `/ (root)`**.
